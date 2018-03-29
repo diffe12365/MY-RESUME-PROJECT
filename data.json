@@ -1,0 +1,39 @@
+{
+  "basics":{
+    "photo":"image.gif",
+    "name":"balaji",
+    "email":"vemanabalaji@gmail.com",
+    "mobile":"1234567890",
+    "address":"chittoor"
+
+  },
+  "career":{
+    "info":"Seeking challenging career in [your profession] Sector to get a position of responsibility, using my professional skills and efficiency to communicate my ideas and views and commit myself for achieving organizational objectives with the team effort and my positive attitude and performance"
+  },
+  "education":[
+    {
+      "course":"MCA",
+      "college":"SVPCET,PUTTUR",
+      "data":["2016-19","80%"]
+    },
+    {
+      "course":"B.SC",
+      "college":"SSDC,NAGARI",
+      "data":["2013-16","80%"]
+    },
+
+  {
+
+      "course":"INTERMEDIATE(M.P.C)",
+      "college":"SRI SURYA JUNOR COLLEGE,NAGARI",
+      "data":["2011-13","70%"]
+    },
+    {
+      "course":"SSC",
+      "college":"SSC,NAGARI",
+      "data":["2006-11","85%"]
+    }
+
+  ]
+
+}
